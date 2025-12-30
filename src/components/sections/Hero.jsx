@@ -1,5 +1,4 @@
 import { useEffect, useRef } from 'react';
-import { ChevronDown } from 'lucide-react';
 import gsap from 'gsap';
 
 export default function Hero() {
@@ -82,12 +81,6 @@ export default function Hero() {
                         </a>
                     </div>
                 </div>
-            </div>
-
-            {/* Scroll indicator */}
-            <div className="absolute bottom-12 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2 animate-scroll-indicator">
-                <span className="label-mono text-xs">SCROLL</span>
-                <ChevronDown className="w-5 h-5" />
             </div>
         </section>
     );
