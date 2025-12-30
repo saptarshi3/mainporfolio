@@ -1,0 +1,26 @@
+"Redesign this portfolio into a professional, high-end 'Futuristic Minimalist' website using React, Tailwind CSS, and Framer Motion.
+
+1. Visual Identity & Aesthetics
+* Color Palette: Use a deep, layered dark theme. Background: #080808. Card surfaces: #121212 with a 1px border of rgba(255,255,255,0.05). Accent: Pure white #FFFFFF.
+
+Typography: Use 'Inter' for body text and a bold, wide 'Space Grotesk' for headers.
+
+Global Effects: Add a subtle Film Grain overlay and a CSS Radial Gradient that follows the mouse cursor to create a 'spotlight' effect on the dark background.
+
+2. The Hero Section (Landing)
+* Headline: Large, high-contrast typography: "I BUILD SMOOTH DIGITAL EXPERIENCES". * Identity: Below the headline, include "Saptarshi (Sap) — B.Tech IT at Techno Main Salt Lake". * Interactive Element: Add a 'Floating 3D S' logo or a glowing 'S' emblem that pulse-radiates. * CTAs: Two distinct buttons: 'View Projects' (Solid White) and 'Download Resume' (Outline).
++4
+
+3. Skill Architecture (Java & Web)
+Dual-Focus Layout: Split the skills into two futuristic 'Bento Grid' sections. * Grid 1 (Development): Showcase React, Next.js, Node.js, Tailwind, and MongoDB. * Grid 2 (Computer Science): Highlight 'Java (Primary)' with a focus on Data Structures, Algorithms, and Problem Solving. * AI Layer: Add a special 'Lab' card for AI/ML Exploration, LLM Integration, and Prompt Engineering.
++3
+
+4. Experience & Projects
+* SIH Highlight: Create a featured 'Spotlight' card for the Smart India Hackathon (SIH). Mention the 'drug inventory and supply chain tracking system' with a small 'Full-stack' tag. * Project Cards: Use a 3D-tilt effect on hover for the 'Personal Portfolio Concepts'. Include tech tags for 'Scroll animations' and 'Glassmorphism'. * Timeline: A vertical line for 'College Hackathons & Coding Competitions' and 'Open Source/Freelance Work'.
++4
+
+5. Technical Requirements
+Animations: Use framer-motion for 'staggered fade-ins' so elements appear as the user scrolls. * Contact Form: A sleek, centered form with monochrome input fields and a 'Send Message' button that triggers a 'success' animation.
++1
+
+Responsive: Ensure the layout shifts from a multi-column desktop view to a clean, single-column mobile view seamlessly."
