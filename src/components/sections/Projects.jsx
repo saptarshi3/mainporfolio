@@ -86,7 +86,7 @@ export default function Projects() {
                     </p>
                 </div>
 
-                <div className="space-y-8">
+                <div className="space-y-12">
                     {projects.map((project, index) => (
                         <div
                             key={index}

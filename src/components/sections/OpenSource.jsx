@@ -76,7 +76,7 @@ export default function OpenSource() {
             <div className="relative z-10 w-full max-w-6xl">
                 <h2 className="heading-lg mb-16 text-center">OPEN SOURCE & AI</h2>
 
-                <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
+                <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
                     {/* Terminal panel */}
                     <div className="opensource-card glass-card p-8 font-mono text-sm">
                         <div className="flex items-center gap-2 mb-6 pb-4 border-b border-white/10">

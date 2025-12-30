@@ -93,7 +93,7 @@ export default function Skills() {
             <div className="w-full max-w-7xl">
                 <h2 className="heading-lg mb-16 text-center">SKILLS & STACK</h2>
 
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-6 lg:gap-8">
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-8 lg:gap-10">
                     {skillCategories.map((category, index) => (
                         <div
                             key={index}

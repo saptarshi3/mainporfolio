@@ -73,7 +73,7 @@ export default function Hero() {
                     </div>
 
                     {/* CTAs */}
-                    <div className="hero-cta flex flex-wrap gap-6 items-center">
+                    <div className="hero-cta flex flex-wrap gap-8 md:gap-10 items-center">
                         <button onClick={scrollToProjects} className="btn-outline">
                             View Projects
                         </button>
