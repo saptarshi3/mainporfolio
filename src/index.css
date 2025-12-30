@@ -188,11 +188,10 @@ body::before {
   top: 0;
   left: 0;
   right: 0;
-  height: 200px;
+  height: 160px;
   background: linear-gradient(to bottom, var(--blend-color-top, var(--blend-color, #000)), transparent);
   z-index: 5;
   pointer-events: none;
-  animation: fadeIn 0.8s ease-out;
 }
 
 .section-blend-bottom {
@@ -205,21 +204,10 @@ body::before {
   bottom: 0;
   left: 0;
   right: 0;
-  height: 200px;
+  height: 160px;
   background: linear-gradient(to top, var(--blend-color-bottom, var(--blend-color, #000)), transparent);
   z-index: 5;
   pointer-events: none;
-  animation: fadeIn 0.8s ease-out;
-}
-
-@keyframes fadeIn {
-  from {
-    opacity: 0.8;
-  }
-
-  to {
-    opacity: 1;
-  }
 }
 
 @media (min-width: 768px) {

@@ -58,8 +58,8 @@ export default function Experience() {
             id="experience"
             className="section-container bg-dark-gray relative section-blend-top section-blend-bottom"
             style={{
-                '--blend-color-top': '#0a0a0a',
-                '--blend-color-bottom': '#0a0a0a'
+                '--blend-color-top': '#000000', // From Projects
+                '--blend-color-bottom': '#0a0a0a' // To OpenSource
             }}
         >
             {/* Dot grid background */}
