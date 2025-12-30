@@ -62,8 +62,8 @@ export default function OpenSource() {
             id="opensource"
             className="section-container bg-almost-black relative section-blend-top section-blend-bottom"
             style={{
-                '--blend-color-top': '#1a1a1a', // From Experience
-                '--blend-color-bottom': '#000000' // To Contact
+                '--blend-color-top': '#0a0a0a',
+                '--blend-color-bottom': '#0a0a0a'
             }}
         >
             {/* Noise background */}
